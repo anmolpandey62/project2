@@ -1,4 +1,4 @@
 // add new feature
-# New project
+let _y="New project";
 
-This projcet was created from local System.created by anmol pandey.
+let y="This project was created from local System.created by anmol pandey.";
